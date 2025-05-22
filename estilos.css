@@ -6,3 +6,6 @@ body {
     color: #336699;
     text-align: center;
     }
+    body {
+        background-color: #f0f0f0; /* Nueva línea */
+        }
